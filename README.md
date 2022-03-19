@@ -25,14 +25,14 @@ Repo of the project: https://github.com/anasanmua/cryptoCurrencyApp
 https://hearer.herokuapp.com</br>
 
 Hearer is a Full-Stack app, based on the idea of needing someone to listen to you. Here you can make posts telling how you feel and users with greater roles can send you a contact request to be able to contact with them, if you want to. With a fuctional role system, moderation, use of JWT, ContextAPI, ReactJS, various APIs, NodeJS.</br>
-Repo of the project: https://github.com/miguelow/code-ninja
+Repo of the project (client): https://github.com/VmMad/hearer-client </br>
+Repo of the project (server): https://github.com/VmMad/hearer-server
  <hr/>
 
 <h3>The Phone Cave (by JCDev):</h3><br/>
 https://phonestore-client.herokuapp.com/</br>
 The Phone Cave is a "mockup" of an online phone store where you can get info about the *'latest'* phones in the market and buy them. Soon to implement a role system, user sessions and an e-commerce experience.</br>
-Repo of the project (client): https://github.com/VmMad/hearer-client </br>
-Repo of the project (server): https://github.com/VmMad/hearer-server
+Repo of the project: https://github.com/VmMad/The-Phone-Cave </br>
  <hr/>
 <p> ♪</p>
 </div>
